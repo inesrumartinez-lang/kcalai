@@ -1,0 +1,18 @@
+{
+  "name": "kcal·ai",
+  "short_name": "kcal·ai",
+  "description": "Registro de calorías con IA",
+  "start_url": "./kcalai-v2.html",
+  "display": "standalone",
+  "background_color": "#f5f2eb",
+  "theme_color": "#f5f2eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='112' fill='%23f5f2eb'/><text x='256' y='340' font-size='280' text-anchor='middle' font-family='serif' fill='%23c84b2f'>k</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
